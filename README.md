@@ -1,4 +1,4 @@
-![profile banner](https://media.licdn.com/dms/image/v2/D5616AQHA7oLvfoVm8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734114398308?e=1739404800&v=beta&t=9imH9JoOLV_IsEAfoL9XQU9icMfs83uCjlMj-3k4oyA)
+![profile banner](banner.jpeg)
 
 # 👋 Hi there, I'm Jason!
 
